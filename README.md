@@ -169,36 +169,8 @@ PPE_Detection_App/
 │   ├── amr.png
 │   ├── mohamed.png
 │   └── youssef.jpg
-├── 📁 detection/                 # AI detection modules
-│   ├── detector.py              # Main detection engine
-│   └── model_manager.py         # Model management
-├── 📁 screens/                   # UI screen components
-│   ├── dashboard.py             # Main dashboard
-│   └── splash_screen.py         # Welcome screen
-├── 📁 utils/                     # Utility functions
-│   ├── animations.py            # Animation effects
-│   └── styles.py                # UI styling
-├── 📁 integrations/              # External integrations
-│   ├── analytics.py             # Analytics tracking
-│   └── sms_notifier.py          # SMS notifications
-├── 📁 config/                    # Configuration files
-│   └── sms_config.json          # SMS settings
-├── 📁 data/                      # Data storage
-│   └── analytics.db             # Analytics database
-├── 📁 temp/                      # Temporary files
-│   └── detections/              # Detection outputs
 ├── 🐍 ppe_detection_app.py       # Main application file
-├── 🐍 main.py                    # Application launcher
-├── 🐍 run.py                     # Alternative launcher
-├── 🐍 test_app.py                # Test script
-├── 📄 requirements.txt           # Python dependencies
-├── 📄 README.md                  # This file
-├── 📄 QUICK_START.md             # Quick start guide
-├── 🔧 run.bat                    # Windows batch launcher
-├── 🔧 run_venv.bat              # Virtual environment launcher
-├── 🤖 first_version.pt          # YOLOv8 model v1
-├── 🤖 second_version.pt         # YOLOv8 model v2
-└── 🤖 yolov8m.pt                # YOLOv8 medium model
+└── 📄 README.md                  # This file
 ```
 
 ---
