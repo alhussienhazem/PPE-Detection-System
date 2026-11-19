@@ -171,7 +171,7 @@ PPE_Detection_App/
 
 ---
 
-## 🧠 AI Model Information
+##  AI Model Information
 
 ### **Model Architecture**
 - **Base Model**: YOLOv8 (Ultralytics)
