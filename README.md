@@ -1,8 +1,8 @@
-# 🛡️ PPE Detection System
-
 <div align="center">
 
-![PPE Detection Logo](images/logo.png)
+<h1>🛡️ PPE Detection System</h1>
+
+<img src="images/logo.png" alt="PPE Detection Logo" width="280">
 
 **Advanced Helmet & Vest Detection Platform**
 
@@ -164,11 +164,7 @@ run_venv.bat
 ```
 PPE_Detection_App/
 ├── 📁 images/                    # Application images and logos
-│   ├── logo.png                  # Main application logo
-│   ├── alhussien.jpg            # Team member photos
-│   ├── amr.png
-│   ├── mohamed.png
-│   └── youssef.jpg
+│   └── logo.png                  # Main application logo
 ├── 🐍 ppe_detection_app.py       # Main application file
 └── 📄 README.md                  # This file
 ```
@@ -203,10 +199,15 @@ PPE_Detection_App/
 
 <div align="center">
 
-| **Alhussien Hazem** | **Youssef Mostafa** | **Amr Abdelrahman** | **Mohamed Ramy** |
-|:---:|:---:|:---:|:---:|
-| **Lead Developer** | **Model Training Specialist** | **Data & Model Engineer** | **AI Model Developer** |
-| Desktop App, AI Model Training, Data Processing | AI Model Training, Helmet Data Collection | AI Model Training, Vest Data Processing | AI Model Training, Vest Data Collection |
+<p>
+  <strong>Alhussien Hazem</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>Youssef Mostafa</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>Amr Abdelrahman</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>Mohamed Ramy</strong>
+</p>
 
 </div>
 
@@ -301,7 +302,7 @@ python test_app.py
 ## 📊 Performance Benchmarks
 
 | Metric | Value | Notes |
-|--------|-------|-------|
+|:-------|:-----:|:------|
 | **Detection Speed** | 30 FPS | With GPU acceleration |
 | **Accuracy (mAP50)** | [Your Score] | On validation dataset |
 | **Memory Usage** | ~2GB | During real-time detection |
@@ -316,44 +317,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📞 Support
-
-- **Documentation**: [Wiki](https://github.com/yourusername/ppe-detection-system/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ppe-detection-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ppe-detection-system/discussions)
-- **Email**: support@ppedetection.com
-
----
-
-## 🙏 Acknowledgments
-
-- **Ultralytics** for the amazing YOLOv8 framework
-- **PyQt5** for the powerful GUI framework
-- **OpenCV** for computer vision capabilities
-- **Team 4** for the incredible development effort
-
----
-
 <div align="center">
 
 **Made with ❤️ by Team 4**
 
 *Ensuring workplace safety through intelligent technology*
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ppe-detection-system?style=social)](https://github.com/yourusername/ppe-detection-system)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/ppe-detection-system?style=social)](https://github.com/yourusername/ppe-detection-system)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/ppe-detection-system?style=social)](https://github.com/yourusername/ppe-detection-system)
+[![GitHub stars](https://img.shields.io/github/stars/alhussienhazem/PPE-Detection-System?style=social)](https://github.com/alhussienhazem/PPE-Detection-System)
+[![GitHub forks](https://img.shields.io/github/forks/alhussienhazem/PPE-Detection-System?style=social)](https://github.com/alhussienhazem/PPE-Detection-System)
+[![GitHub watchers](https://img.shields.io/github/watchers/alhussienhazem/PPE-Detection-System?style=social)](https://github.com/alhussienhazem/PPE-Detection-System)
 
 </div>
