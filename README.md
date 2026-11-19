@@ -205,7 +205,6 @@ PPE_Detection_App/
 
 | **Alhussien Hazem** | **Youssef Mostafa** | **Amr Abdelrahman** | **Mohamed Ramy** |
 |:---:|:---:|:---:|:---:|
-| ![Alhussien](images/alhussien.jpg) | ![Youssef](images/youssef.jpg) | ![Amr](images/amr.png) | ![Mohamed](images/mohamed.png) |
 | **Lead Developer** | **Model Training Specialist** | **Data & Model Engineer** | **AI Model Developer** |
 | Desktop App, AI Model Training, Data Processing | AI Model Training, Helmet Data Collection | AI Model Training, Vest Data Processing | AI Model Training, Vest Data Collection |
 
